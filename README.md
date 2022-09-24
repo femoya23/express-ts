@@ -1,6 +1,6 @@
 # Express-TS Template
 
-Docker and Kube-ready Express application in TypeScript with speedy development.
+Docker and Kube-ready Express application in TypeScript with speedy development.0
 
 
 ## Developing
